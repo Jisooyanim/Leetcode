@@ -12,4 +12,5 @@ public class singleNumber {
         }
         return ans;
     }
+}
 //https://www.baeldung.com/java-xor-operator
